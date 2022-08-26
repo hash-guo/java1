@@ -24,6 +24,7 @@ public class helloworld {
         isMax(num1,num2);
         System.out.println("第二个版本");
         System.out.println("hot-fix修改的");
+        System.out.println("hot-fix第二次修改的");
 
     }
     public static void isMax(int n1,int n2){
