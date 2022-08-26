@@ -23,6 +23,7 @@ public class helloworld {
         int num2=scanner.nextInt();
         isMax(num1,num2);
         System.out.println("第二个版本");
+        System.out.println("hot-fix修改的");
 
     }
     public static void isMax(int n1,int n2){
