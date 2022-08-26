@@ -22,6 +22,7 @@ public class helloworld {
         System.out.println("请输入第二个数:");
         int num2=scanner.nextInt();
         isMax(num1,num2);
+        System.out.println("第二个版本");
 
     }
     public static void isMax(int n1,int n2){
